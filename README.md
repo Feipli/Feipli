@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/Feipli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Feipli&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipei&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feipli&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Feipli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
